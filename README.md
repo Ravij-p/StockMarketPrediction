@@ -8,7 +8,6 @@ This project focuses on predicting stock market prices using Long Short-Term Mem
 - **Data Preprocessing**: Clean and preprocess the data for model training.
 - **LSTM Model**: Implement and train LSTM neural networks for prediction.
 - **Evaluation**: Evaluate the model's performance using appropriate metrics.
-- **Visualization**: Visualize the predictions against actual stock prices.
 - **Optimization**: Fine-tune the model for better accuracy.
 
 ### Work in Progress
@@ -21,7 +20,6 @@ This project focuses on predicting stock market prices using Long Short-Term Mem
   - Data Collection: pandas, yfinance
   - Data Preprocessing: pandas, numpy, scikit-learn
   - Model Building: TensorFlow, Keras
-  - Visualization: matplotlib, seaborn
 - **Development Tools**: Jupyter Notebook, Visual Studio Code
 
 ## Installation
