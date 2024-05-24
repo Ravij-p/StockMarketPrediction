@@ -36,46 +36,9 @@ This project focuses on predicting stock market prices using Long Short-Term Mem
 
 ### Clone the Repository
 ```bash
-git clone https://github.com/yourusername/stock-market-prediction.git
-cd stock-market-prediction
+git clone https://github.com/Ravij-p/StockMarketPrediction.git
+cd StockMarketPrediction
 ```
-
-### Install Dependencies
-```bash
-pip install -r requirements.txt
-```
-
-## Usage
-
-### Data Collection
-1. Run the `data_collection.py` script to download historical stock price data.
-   ```bash
-   python data_collection.py
-   ```
-
-### Data Preprocessing
-2. Preprocess the data by running the `data_preprocessing.py` script.
-   ```bash
-   python data_preprocessing.py
-   ```
-
-### Model Training
-3. Train the LSTM model using the `train_model.py` script.
-   ```bash
-   python train_model.py
-   ```
-
-### Model Evaluation
-4. Evaluate the model's performance by running the `evaluate_model.py` script.
-   ```bash
-   python evaluate_model.py
-   ```
-
-### Visualization
-5. Visualize the predictions against actual stock prices using the `visualize_predictions.py` script.
-   ```bash
-   python visualize_predictions.py
-   ```
 
 ## Contributing
 Contributions are welcome! Please fork the repository and submit a pull request for review.
