@@ -1,7 +1,3 @@
-Sure! Here’s a comprehensive README file for your stock market prediction project using LSTM neural networks:
-
----
-
 # Stock Market Prediction Using LSTM
 by Ravij Patel and Diya shah
 ## Overview
